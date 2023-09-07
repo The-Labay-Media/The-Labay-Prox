@@ -6,9 +6,9 @@
     "node-static": "^0.7.11",
     "serve-static": "^1.15.0"
   },
-  "name": "abyss",
+  "name": "The Labay Prox",
   "version": "1.0.0",
-  "description": "The Labay Prox",
+  "description": "The Labay Prox is an Ultraviolet powered web proxy to evade internet censorship",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
