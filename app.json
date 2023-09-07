@@ -1,0 +1,7 @@
+{
+    "name": "The Labay Prox",
+    "description": "The Labay Prox is an Ulraviolet powered web proxy to evade internet censorship.",
+    "repository": "https://github.com/The-Labay-Media/The-Labay-Prox",
+    "logo": "https://github.com/The-Labay-Media/The-Labay-Prox/blob/main/public/img/the-labay-prox.png",
+    "keywords": ["tomp", "ultraviolet"]
+}
