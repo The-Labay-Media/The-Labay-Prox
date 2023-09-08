@@ -37,7 +37,7 @@ httpServer.on('upgrade', (req, socket, head) => {
 });
 
 httpServer.on('listening', () => {
-	console.log('The Labay Prox');
+	console.log('The Labay Prox Running On Port 8080');
 });
 
 httpServer.listen({
